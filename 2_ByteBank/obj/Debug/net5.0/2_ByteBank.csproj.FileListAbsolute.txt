@@ -1,0 +1,16 @@
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.exe
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.deps.json
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.runtimeconfig.json
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.runtimeconfig.dev.json
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.dll
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\ref\2_ByteBank.dll
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\bin\Debug\net5.0\2_ByteBank.pdb
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.csproj.AssemblyReference.cache
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.AssemblyInfoInputs.cache
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.AssemblyInfo.cs
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.dll
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\ref\2_ByteBank.dll
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.pdb
+C:\Users\Fabio Castro\source\repos\OrientacaoObjetos\2_ByteBank\obj\Debug\net5.0\2_ByteBank.genruntimeconfig.cache
